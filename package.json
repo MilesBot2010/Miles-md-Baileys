@@ -8,12 +8,12 @@
     "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/GataNina-Li/Baileys#readme",
+  "homepage": "https://github.com/MilesBot2010/Miles-md-Baileys#readme",
   "repository": {
-    "url": "git@github.com:GataNina-Li/Baileys.git"
+    "url": "git@github.com:MilesBot2010/Miles-md-Baileys.git"
   },
   "license": "MIT-License",
-  "author": "GataNina-Li",
+  "author": "Gojo",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
